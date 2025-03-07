@@ -68,3 +68,31 @@ a:hover{
     text-align: center;
     margin-top: 10px;
 }
+.CHARACTER{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(146, 105, 169);
+    color: white;
+    padding: 20px;
+    margin-top: 15px;
+}
+.CHARACTER h1
+{
+    text-align: center;
+    height: 50px;
+    margin-top: 10px;
+}
+.CHARACTER p{
+    text-align: center;
+    margin-top: 10px;
+}
+footer{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin-top: 10px;
+}
